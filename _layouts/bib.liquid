@@ -192,6 +192,9 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm" role="button"><i class="fa-brands fa-github-alt"></i></a>
       {% endif %}
+      {% if entry.video %}
+        <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-brands fa-youtube"></i></a>
+      {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
@@ -284,9 +287,7 @@
       </div>
     {% endif %}
 
-    {% if entry.video %}
-        <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-brands fa-youtube"></i></a>
-    {% endif %}
+    
 
   </div>
 </div>
