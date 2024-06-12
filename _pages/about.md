@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: abouts
 permalink: /
 subtitle: <a href='https://www.iiit.ac.in'>IIIT Hyderabad</a>
 
