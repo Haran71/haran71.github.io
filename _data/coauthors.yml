@@ -32,3 +32,16 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"tapaswi":
+  - firstname: ["Makarand", "M."]
+    url: https://makarandtapaswi.github.io
+
+"khan":
+  - firstname: ["Zeeshan", "Z."]
+    url: https://zeeshank95.github.io
+
+"desanur":
+  - firstname: ["Naveen Reddy"]
+    url: https://dnaveenr.github.io
+
