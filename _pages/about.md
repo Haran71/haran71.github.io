@@ -6,7 +6,7 @@ subtitle: <a href='https://www.iiit.ac.in'>IIIT Hyderabad</a>
 
 profile:
   align: right
-  image: haran_prof_pic.jpg
+  image: haran_prof_pic.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
