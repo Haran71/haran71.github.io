@@ -6,7 +6,7 @@
 
 @inproceedings{raajesh2024micap,
 title = {{MICap: A Unified Model for Identity-aware Movie Descriptions}},
-author = {Haran Raajesh and Naveen Reddy Desanur and Zeeshan Khan and Makarand Tapaswi},
+author = {Haran Raajesh* and Naveen Reddy Desanur* and Zeeshan Khan and Makarand Tapaswi},
 booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
 year = {2024},
 abstract={Characters are an important aspect of any storyline and identifying and including them in descriptions is necessary for story understanding. While previous work has largely ignored identity and generated captions with someone (anonymized names), recent work formulates id-aware captioning as a fill-in-the-blanks (FITB) task, where, given a caption with blanks, the goal is to predict person id labels. However, to predict captions with ids, a two-stage approach is required: first predict captions with someone, then fill in identities. In this work, we present a new single stage approach that can seamlessly switch between id-aware caption generation or FITB when given a caption with blanks. Our model, Movie-Identity Captioner (MICap), uses a shared auto-regressive decoder that benefits from training with FITB and full-caption generation objectives, while the encoder can benefit from or disregard captions with blanks as input. Another challenge with id-aware captioning is the lack of a metric to capture subtle differences between person ids. To this end, we introduce iSPICE, a caption evaluation metric that focuses on identity tuples created through intermediate scene graphs. We evaluate MICap on Large-Scale Movie Description Challenge (LSMDC), where we show a 4.2% improvement in FITB accuracy, and a 1-2% bump in classic captioning metrics.},
@@ -17,6 +17,19 @@ preview={micap.jpeg},
 website={https://katha-ai.github.io/projects/micap/},
 code={https://github.com/katha-ai/MovieIdentityCaptioner-CVPR2024},
 video={https://www.youtube.com/watch?v=GVRDQ2sAezM}
+}
+
+@inproceedings{jang2025litfic,
+title = {{Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues}},
+author = {Youngjoon Jang* and Haran Raajesh* and Liliane Momeni and Gül Varol and Andrew Zisserman},
+booktitle = {arXiv},
+year = {2025},
+abstract={Our objective is to translate continuous sign language into spoken language text. Inspired by the way human interpreters rely on context for accurate translation, we incorporate additional contextual cues together with the signing video, into a new translation framework. Specifically, besides visual sign recognition features that encode the input video, we integrate complementary textual information from (i) captions describing the background show, (ii) translation of previous sentences, as well as (iii) pseudo-glosses transcribing the signing. These are automatically extracted and inputted along with the visual features to a pre-trained large language model (LLM), which we fine-tune to generate spoken language translations in text form. Through extensive ablation studies, we show the positive contribution of each input cue to the translation performance. We train and evaluate our approach on BOBSL -- the largest British Sign Language dataset currently available. We show that our contextual approach significantly enhances the quality of the translations compared to previously reported results on BOBSL, and also to state-of-the-art methods that we implement as baselines. Furthermore, we demonstrate the generality of our approach by applying it also to How2Sign, an American Sign Language dataset, and achieve competitive results.},
+selected={true},
+pdf={https://arxiv.org/pdf/2501.09754v1},
+arxiv={https://arxiv.org/abs/2501.09754v1},
+preview={litfic.jpeg},
+website={https://robots.ox.ac.uk/~vgg/research/litfic/},
 }
 
 @book{einstein1920relativity,

@@ -45,3 +45,18 @@
   - firstname: ["Naveen Reddy"]
     url: https://dnaveenr.github.io
 
+"varol":
+  - firstname: ["Gül", "G."]
+    url: https://gulvarol.github.io
+
+"zisserman":
+  - firstname: ["Andrew", "A.", "A. Z."]
+    url: https://www.robots.ox.ac.uk/~az
+
+"jang":
+  - firstname: ["Youngjoon, Y.", "Y. J."]
+    url: https://art-jang.github.io
+
+"momeni":
+  - firstname: ["Liliane", "L."]
+    url: https://www.robots.ox.ac.uk/~liliane/
