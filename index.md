@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm an incoming CS PhD Student at UT Austin, working with professor Philip Krahenbuehl
 
 ## Research Interests
 
