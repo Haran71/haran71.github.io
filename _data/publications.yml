@@ -8,7 +8,7 @@ main:
     page: https://robots.ox.ac.uk/~vgg/research/litfic/
     image: ./assets/img/teaser_example_2.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting test test"
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting test tesyyt"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
