@@ -1,6 +1,6 @@
 main:
 
-  - title: Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues
+  - title: "Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues"
     authors: Youngjoon Jang* and Haran Raajesh* and Liliane Momeni and Gül Varol and Andrew Zisserman
     conference_short: CVPR 25
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
