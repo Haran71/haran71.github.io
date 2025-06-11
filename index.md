@@ -4,16 +4,18 @@ layout: homepage
 
 ## About Me
 
-I'm an incoming CS PhD Student at UT Austin, working with professor Philip Krahenbuehl
+I'm an incoming CS PhD Student at UT Austin, and will be working with <a href="https://www.philkr.net">Philipp Krähenbühl</a>.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My work during my undergrad was at the intersection of vision and language with a specific focus on Video Understanding.
+
+I'm entering my PhD with a clean slate looking to explore Deep Learning and Computer Vision more deeply😊.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2025]** I will be joining UT Austin this Fall for my CS PhD, and will be working with <a href="https://www.philkr.net">Philipp Krähenbühl</a>
+- **[Feb. 2025]** Our paper on Sign Languge Translation has been accepted to CVPR 2025.
+- **[May. 2024]** Have started an internship at the <a href="https://imagine-lab.enpc.fr">IMAGINE</a> lab, with <a href="https://imagine.enpc.fr/~varolg/">Gul Varol</a> and <a href="https://scholar.google.com/citations?user=UZ5wscMAAAAJ&hl=en">Andrew Zisserman</a>, working on Sign Language Translation
+- **[Feb. 2024]** Our paper on Identity Aware Movie Descriptions has been accepted to CVPR 2024.
+- **[June 2023]** Joined CVIT and will be working with Makarand Tapaswi
