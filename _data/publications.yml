@@ -1,20 +1,17 @@
 main:
 
   - title: "Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues"
-    authors: Youngjoon Jang* and Haran Raajesh* and Liliane Momeni and Gül Varol and Andrew Zisserman
+    authors: Youngjoon Jang* and <strong>Haran Raajesh*</strong> and Liliane Momeni and Gül Varol and Andrew Zisserman
     conference_short: CVPR 25
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2501.09754v1
     page: https://robots.ox.ac.uk/~vgg/research/litfic/
     image: ./assets/img/litfic.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting test tesyyt"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "MICap: A Unified Model for Identity-aware Movie Descriptions"
+    authors: <strong>Haran Raajesh*</strong> and Naveen Reddy Desanur* and Zeeshan Khan and Makarand Tapaswi
+    conference_short: CVPR 24
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2405.11483  
+    page: https://katha-ai.github.io/projects/micap/
+    image: ./assets/img/micap.jpeg
